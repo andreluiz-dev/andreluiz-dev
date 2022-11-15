@@ -1,7 +1,7 @@
 Hi 👋 My name is André
 ==========================
 
-Beck End Software Developer
+Back End Software Developer
 -----------------------------
 
 I'm a 22 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
