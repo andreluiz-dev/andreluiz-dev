@@ -1,16 +1,16 @@
 Hi 👋 My name is André
 ==========================
 
-Back End Software Developer
+Data Scientist with Python.
 -----------------------------
 
-I'm a 23 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a 23-year-old data scientist. I love programming and discovering how to solve deep problems using cutting-edge technology. My main focus is the development of data science, machine learning techniques, statistics and data processing. I'm new to the field, I intend to be a great professional. In this profile you will follow my progress and some of my projects. Welcome!
 
 I am also a Systems Analysis and Development student at [Fatec](https://fatecitapetininga.edu.br)
 
 * 🌍  I'm based in Itapetininga, São Paulo - BR
 * ✉️  You can contact me at [andre.amaral4@fatec.sp.gov.br](andre.amaral4@fatec.sp.gov.br)
-* 🧠  I'm a begging Python developer.
+* 🧠  I'm starting in Data Science with Python.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Football.
 
