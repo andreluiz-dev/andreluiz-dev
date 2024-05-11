@@ -1,16 +1,16 @@
 Hi 👋 My name is André
 ==========================
 
-Data Scientist with Python.
+Developer with .NET
 -----------------------------
 
-I'm a 23-year-old data scientist. I love programming and discovering how to solve deep problems using cutting-edge technology. My main focus is the development of data science, machine learning techniques, statistics and data processing. I'm new to the field, I intend to be a great professional. In this profile you will follow my progress and some of my projects. Welcome!
+Hi, I'm 24 years old. I love programming and discovering how to solve deep problems using cutting-edge technology. My main focus is development using .NET. I'm new to the area, I intend to be a great professional. In this profile you will follow my progress and some of my projects. Welcome!
 
 I am also a Systems Analysis and Development student at [Fatec](https://fatecitapetininga.edu.br)
 
 * 🌍  I'm based in Itapetininga, São Paulo - BR
 * ✉️  You can contact me at [andre.amaral4@fatec.sp.gov.br](andre.amaral4@fatec.sp.gov.br)
-* 🧠  I'm starting in Data Science with Python.
+* 🧠  I'm starting in development using .NET.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Football.
 
