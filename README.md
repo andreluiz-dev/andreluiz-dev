@@ -29,7 +29,7 @@ I am also a Systems Analysis and Development student at [Fatec](https://fatecita
   [<img src="https://hermes.dio.me/tracks/077c7636-313d-4f1a-ba1c-c3aac542e86b.png" width="70"/>](https://web.dio.me/track/descubra-nuvem-aws-localizalabs-meu-futuro-e-tech)[<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-40b73e8a-4201-4f57-8857-f4de2de9ca87.jpg?v=1643667928000" width="70"/>](https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/)
 
 ### List of studies
-  [<img src="https://hermes.dio.me/tracks/b19308ff-9431-48e9-9c7b-5cf01dd5ec24.png" width="70"/>](https://web.dio.me/track/formacao-machine-learning-specialist)[<img src="https://hermes.dio.me/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" width="70"/>](https://web.dio.me/track/formacao-sql-db-specialist)[<img src="https://hermes.dio.me/tracks/b9b2973e-b2be-4bf0-b6b2-57a6c8354a95.png" width="70"/>](https://web.dio.me/track/formacao-power-bi-analyst)
+  [<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" width="70"/>](https://web.dio.me/track/formacao-dotnet-developer)[<img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" width="70"/>](https://web.dio.me/track/formacao-javascript-developer)
   
 
 
