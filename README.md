@@ -1,6 +1,6 @@
 # Hi there, I'm André 👋
 
-I'm a 25-year-old Back-End Programming student with a passion for technology, music, and gaming.
+I'm a 25 year old Back-End Programming student with a passion for technology, music, and gaming.
 Currently focusing on mastering C# to build efficient and scalable backend systems.
 
 ## 🚀 About Me
