@@ -21,7 +21,7 @@ Currently, I work extensively within the **Google Cloud Platform (GCP)** ecosyst
 | :--- | :--- |
 | **Cloud & Data Warehousing** | `Google Cloud Platform (GCP)` • `BigQuery` |
 | **Data Transformation & Ops** | `Dataform` • `SQL` • `Git & GitHub` |
-| **Data Visualization & Analysis** | `Looker Studio` • `Microsoft Excel` |
+| **Data Visualization & Analysis** | `Looker Studio` |
 | **Agile & Management** | `Jira (Upstream & Downstream)` • `Scrum/Kanban` |
 
 ---
