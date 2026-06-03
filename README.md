@@ -1,35 +1,55 @@
-# Hi there, I'm André 👋
+# Hi there, I'm André Luiz 👋
 
-I'm a 25 year old Back-End Programming student with a passion for technology, music, and gaming.
-Currently focusing on mastering C# to build efficient and scalable backend systems.
+<p align="left">
+  <a href="https://www.linkedin.com/in/andré-luiz-amaral-9a3929201">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:dev.andrelaj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-## 🚀 About Me
-- 🎓 Currently studying C# and Back-End Development
-- 🎮 Gamer and tech enthusiast
-- 🎵 Music lover
+I'm a 26-year-old **Data Analyst** and Data Science student. I specialize in building reliable data pipelines, transforming raw data into actionable insights, and managing modern data stack lifecycles.
 
-## 🛠️ Skills
-- **Cloud**: ECR, ECS, EC2 and Lambda.
-- **Backend**: C#,.NET Core,.NET Framework, Entity Framework.
-- **Frontend**: JavaScript, Angular.
-- **Databases**: SQL Server, PostgreSQL.
-- **Methodologies**: SOLID, Clean Code.
-- **Version Control**: Git, GitHub
+Currently, I work extensively within the **Google Cloud Platform (GCP)** ecosystem, leveraging SQL, Dataform, and automation tools to optimize data workflows and business intelligence.
 
-## 🎓 Certifications & Completed Courses
-- [Algorithms and Programming Logic](https://www.udemy.com/certificate/UC-40b73e8a-4201-4f57-8857-f4de2de9ca87/)
-- [Complete C# - Object Oriented Programming](https://www.udemy.com/certificate/UC-80ebc006-579c-48d8-b4f7-eba263a96358/)
-- [Introduction to AWS Cloud](https://www.dio.me/certificate/002E0FF9/share)
+---
 
-## 📚 Current Studies
-- Degree in Systems Analysis and Development - FATEC ITAPETININGA
-- Clean Architecture Essencial - ASP .NET Core with C# - UDEMY
-- English - LORENN ENGLISH.
+## 🛠️ Tech Stack & Skills
 
-## 🗣️ Languages
-- Portuguese - Native.
-- English - Advanced.  
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Cloud & Data Warehousing** | `Google Cloud Platform (GCP)` • `BigQuery` |
+| **Data Transformation & Ops** | `Dataform` • `SQL` • `Git & GitHub` |
+| **Data Visualization & Analysis** | `Looker Studio` • `Microsoft Excel` |
+| **Agile & Management** | `Jira (Upstream & Downstream)` • `Scrum/Kanban` |
 
-## 📞 Connect with Me
-- LinkedIn: [André Luiz Amaral](https://www.linkedin.com/in/andr%C3%A9-luiz-amaral-9a3929201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: dev.andrelaj@gmail.com
+---
+
+## 📚 Education & Current Focus
+
+*   🎓 **Degree:** Data Science – UNINTER
+*   🗣️ **Languages:** Portuguese (Native) • English (Advanced - studying at *Lorenn English*)
+*   🎯 **Current Interests:** Modern Data Stack, Data Modeling, and Data Ops automation.
+
+---
+
+## 📜 Certifications
+
+### 📊 Data & Analytics
+*   🛢️ [SQL Completo com Google BigQuery Para Análise de Dados](https://www.udemy.com/certificate/UC-6491d09e-8cb2-4cb5-b788-3c68ee417198/) *(Udemy)*
+*   📈 [Análise de Dados e Negócios com Microsoft Excel](https://www.udemy.com/certificate/UC-7e268200-768d-4edc-958b-f8532e9fd557/) *(Udemy)*
+
+### 💻 Development & Cloud Foundations
+*   🥇 [Complete C# - Object-Oriented Programming](https://www.udemy.com/certificate/UC-80ebc006-579c-48d8-b4f7-eba263a96358/) *(Udemy)*
+*   ☁️ [Introduction to AWS Cloud](https://www.dio.me/certificate/002E0FF9/share) *(DIO)*
+*   🧠 [Algorithms and Programming Logic](https://www.udemy.com/certificate/UC-40b73e8a-4201-4f57-8857-f4de2de9ca87/) *(Udemy)*
+
+---
+
+### ⚡ Fun Fact
+When I'm not writing complex SQL queries or organizing Jira workflows, you'll probably find me listening to music, gaming, or exploring new tech trends.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario-do-github&show_icons=true&theme=tokyonight" alt="Andre's GitHub stats" />
+</p>
