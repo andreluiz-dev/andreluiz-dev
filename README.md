@@ -21,28 +21,27 @@ Currently, I work extensively within the **Google Cloud Platform (GCP)** ecosyst
 | :--- | :--- |
 | **Cloud & Data Warehousing** | `Google Cloud Platform (GCP)` • `BigQuery` |
 | **Data Transformation & Ops** | `Dataform` • `SQL` • `Git & GitHub` |
-| **Data Visualization & Analysis** | `Looker Studio` |
+| **Data Visualization & Analysis** | `Looker Studio`|
 | **Agile & Management** | `Jira (Upstream & Downstream)` • `Scrum/Kanban` |
 
 ---
 
-## 📚 Education & Current Focus
+## 📚 Education
 
 *   🎓 **Degree:** Data Science – UNINTER
-*   🗣️ **Languages:** Portuguese (Native) • English (Advanced - studying at *Lorenn English*)
-*   🎯 **Current Interests:** Modern Data Stack, Data Modeling, and Data Ops automation.
+*   🗣️ **Languages:** Portuguese (Native) • English (Basic)
 
 ---
 
 ## 📜 Certifications
 
 ### 📊 Data & Analytics
-*   🛢️ [SQL Completo com Google BigQuery Para Análise de Dados](https://www.udemy.com/certificate/UC-6491d09e-8cb2-4cb5-b788-3c68ee417198/) *(Udemy)*
-*   📈 [Análise de Dados e Negócios com Microsoft Excel](https://www.udemy.com/certificate/UC-7e268200-768d-4edc-958b-f8532e9fd557/) *(Udemy)*
+*   🛢️ [Complete SQL with Google BigQuery for Data Analysis](https://www.udemy.com/certificate/UC-6491d09e-8cb2-4cb5-b788-3c68ee417198/) *(Udemy)*
+*   📈 [Data and Business Analysis with Microsoft Excel](https://www.udemy.com/certificate/UC-7e268200-768d-4edc-958b-f8532e9fd557/) *(Udemy)*
 
 ### 💻 Development & Cloud Foundations
 *   🥇 [Complete C# - Object-Oriented Programming](https://www.udemy.com/certificate/UC-80ebc006-579c-48d8-b4f7-eba263a96358/) *(Udemy)*
-*   ☁️ [Introduction to AWS Cloud](https://www.dio.me/certificate/002E0FF9/share) *(DIO)*
+*   ☁️ [Introduction to AWS Cloud](https://www.dio.me/certificate/002E0FF9/share) *(留下 / DIO)*
 *   🧠 [Algorithms and Programming Logic](https://www.udemy.com/certificate/UC-40b73e8a-4201-4f57-8857-f4de2de9ca87/) *(Udemy)*
 
 ---
